@@ -1,3 +1,4 @@
+
 #define potPin 9   // Define o pino analógico em que o potenciômetro vai ser conectado
 #define ledPin 9   // Define o pino que terá um LED e um resistência ligada ao terra
 
